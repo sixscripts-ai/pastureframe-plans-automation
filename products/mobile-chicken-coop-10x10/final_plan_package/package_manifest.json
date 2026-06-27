@@ -1,0 +1,12 @@
+{
+  "package": "pastureframe_chicken_coop_final_plan_package",
+  "created": "2026-06-27",
+  "locked_decisions": {
+    "mobility": "4x6 skids + axle wheels + tow tongue",
+    "lower_run_height": "48 in",
+    "upper_coop": "4 ft x 10 ft",
+    "prototype_status": "CAD/plans-first until prototype exists",
+    "post_count": "9 4x4 posts in strict v2 spec"
+  },
+  "file_count": 41
+}

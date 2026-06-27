@@ -1,0 +1,22 @@
+# Pre-Publish Blockers Checklist
+
+The Etsy listing cannot be approved until every required blocker below is cleared. Drafting is allowed; publishing is blocked.
+
+| Blocker | Required before Etsy approval | Why it matters | Status |
+| --- | --- | --- | --- |
+| Proof asset: top view | Dimensioned top-view drawing or CAD screenshot exists | Buyer must see real dimensions before purchase | Needed |
+| Proof asset: side view | Dimensioned side-view drawing or CAD screenshot exists | Confirms mobile height and roof slope | Needed |
+| Proof asset: exploded frame | Exploded frame diagram exists | Shows actual construction logic | Needed |
+| Proof asset: wheel/skid detail | Wheel/skid/tow detail exists | Mobility is a core product promise | Needed |
+| Proof asset: nest/roost layout | Interior layer layout exists | Layer-hen usefulness depends on this | Needed |
+| Claim control | No built/field-tested claim unless prototype photos exist | Avoid false proof claims | Blocked until prototype exists |
+| Plan consistency | PDF, cut list, materials list, and images all use 48 in lower run height | Avoid buyer confusion | Required |
+| Material correction | Post quantity corrected to 9 4x4 posts everywhere | Current draft inconsistency must be fixed | Required |
+| Digital clarity | Main image says DIGITAL PLANS and NO PHYSICAL COOP SHIPPED | Prevents buyer confusion | Required |
+| Safety disclaimers | DIY, local conditions, weather, towing, predator limits all stated | Prevents overclaiming | Required |
+| File test | Etsy upload files open, download, and print correctly | Prevents customer support issues | Required |
+| Human approval | Ashton reviews final product PDF and listing images | Final release gate | Required |
+
+## Approval rule
+
+If any required blocker is still marked Needed, Required, or Blocked, do not publish. Ashton must review the final PDF, listing images, price, description, files, and disclaimers before launch.

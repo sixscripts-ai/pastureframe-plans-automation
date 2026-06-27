@@ -1,0 +1,25 @@
+{
+  "product_id": null,
+  "slug": "garden-shade-roof-4post",
+  "product_name": "DIY Garden Shade Roof Plans — Four-Post Sloped Roof for Raised Beds",
+  "product_type": "garden_shade_roof",
+  "status": "draft",
+  "approval_status": "pending",
+  "compliance_status": "pending",
+  "version": "1.0.0",
+  "price": 19,
+  "target_customer": "Gardeners with raised beds in hot climates who need afternoon shade; covers up to roughly 8x10 of bed space depending on post spacing.",
+  "etsy": {
+    "quantity": 999,
+    "type": "download",
+    "who_made": "i_did",
+    "when_made": "made_to_order",
+    "taxonomy_node_hint": "Patterns / How-to / Building plans"
+  },
+  "files": {
+    "main_pdf": "exports/pdf/garden-shade-roof-v1.0.0.pdf",
+    "materials_csv": "exports/etsy-upload/materials.csv",
+    "cut_list_csv": "exports/etsy-upload/cut-list.csv",
+    "listing_images_zip": "exports/etsy-upload/listing-images-v1.zip"
+  }
+}

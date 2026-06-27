@@ -1,0 +1,44 @@
+# Strict Materials List v2 — 10x10 Mobile Chicken Coop
+
+> Source of truth: `final_plan_package/documents/Strict_Build_Spec_Checklist.md` and `final_plan_package/csv_checklists/strict_materials_list_v2.csv`.
+> This strict v2 list supersedes older draft materials lists. Do not use older 4x4-skid, 6-post, 48"-54", or caster-wheel assumptions.
+
+## Locked Design Decisions
+- Footprint: 10 ft x 10 ft outside base.
+- Upper coop: 4 ft x 10 ft elevated house over rear 48 in.
+- Lower run height: 48 in.
+- Mobility: 4x6 skids + axle-mounted pneumatic wheels + tow tongue.
+- Post count: nine 4x4 posts.
+- Hardware cloth: 1/2 in galvanized hardware cloth, 19 ga minimum.
+- Sales status: CAD/plans-first until prototype exists; do not claim built or field-tested.
+
+## Materials
+| Category | Item | Qty | Spec / acceptance check |
+| --- | --- | ---: | --- |
+| Ground/contact | 4x6 pressure-treated skids, 10 ft | 2 | Bevel tow/front ends; keep skids parallel. |
+| Ground/contact | 2x6 pressure-treated lumber, 10 ft | 8-10 | Base perimeter, cross ties, upper coop floor rims; buy extra for errors. |
+| Posts | 4x4 pressure-treated posts, 8 ft | 9 | Corrected source-of-truth quantity: 3 front, 3 coop-front, 3 rear. Cut to plan heights. |
+| Framing | 2x4 exterior/treated lumber, 8 ft | 32-40 | Lower run rails, upper coop walls, braces, rafters, doors, ramp; buy extra for field fit. |
+| Roof | 1x4 or 2x4 purlins, 12 ft | 4 | Run side-to-side under corrugated roofing. |
+| Sheet goods | 3/4 in exterior plywood, 4 ft x 8 ft | 2 | Upper coop floor. |
+| Sheet goods | 1/2 in exterior plywood or T1-11, 4 ft x 8 ft | 5 | Upper coop walls, doors, shutters, nest hatch, trim. |
+| Wire | 1/2 in 19-ga galvanized hardware cloth, 48 in x 100 ft | 1 roll | Run walls, open run roof, vents, windows; optional apron. |
+| Roofing | Corrugated roofing panels, approx. 36 in x 72 in | 4 | Metal/polycarbonate/bitumen; adjust count for panel width and overlap. |
+| Mobility | 20 in pneumatic wheels, 600 lb+ rating | 2 | Use higher rating for rough ground. Verify finished load. |
+| Mobility | 3/4 in axle rod or hub/spindle assemblies | 1 set | Use washers, collars, cotter pins, and through-bolted brackets. |
+| Mobility | Tow tongue parts: 4x4/steel tongue, tow ring, safety chain | 1 set | Tow with ATV, UTV, garden tractor, or compact tractor. |
+| Fasteners | 3 in exterior structural screws | 2 boxes | Framing connections; predrill near ends. |
+| Fasteners | 1-5/8 in exterior screws | 1 box | Plywood and siding. |
+| Fasteners | 1-1/4 in lath screws + fender washers | 1 box each | Hardware cloth attachment; staples alone are not enough. |
+| Fasteners | 5/16 in or 3/8 in galvanized bolts, washers, lock nuts | Assorted | Wheel mounts, tow tongue, heavy hinges. |
+| Hardware | Heavy strap hinges | 8-12 | Doors, cleanout panels, nest hatch. |
+| Hardware | Predator-resistant latches/carabiners | 8-10 | Use two-step latches on exterior doors. |
+| Interior | Nest boxes, removable roost bars, feeders/waterers | As needed | Layer mode uses nests/roosts; broiler mode removes roosts. |
+| Finish | Exterior paint/stain, caulk, roofing screws, drip edge | As needed | Seal cut ends, plywood edges, roof penetrations. |
+
+## Superseded Specs
+- Six-post drafts are invalid; strict v2 requires nine 4x4 posts.
+- Four small swivel casters are invalid for this product; use the skid, axle-wheel, and tow-tongue system.
+- 4x4 skids are invalid for strict v2; use two 4x6 pressure-treated skids.
+- 48"-54" lower-run language is superseded; this product uses a 48 in lower run height.
+- 1/4 in hardware cloth is optional only for brooder/lower predator-pressure zones; main mesh is 1/2 in 19-ga galvanized hardware cloth.

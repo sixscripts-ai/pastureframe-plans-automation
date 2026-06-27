@@ -1,0 +1,26 @@
+System,Build-spec item,Required value,Acceptance check,Status
+Dimensions,Outside base footprint,120 in x 120 in,Diagonal measurements match within 1/4 in before framing upward,Required
+Dimensions,Lower run height,48 in target mobile height,All lower run posts and side elevation use 48 in; no 54 in/72 in mixed into this product,Required
+Dimensions,Elevated coop footprint,48 in x 120 in,Coop floor lands over rear 48 in of run; floor is square and supported,Required
+Dimensions,Upper coop wall heights,48 in high side / 40 in low side,Roof has approx. 8 in fall across 48 in depth,Required
+Frame,Skids,"Two 4x6 PT skids, 120 in","Skids are parallel, bevelled at tow/front end, and through-fastened to base as needed",Required
+Frame,Base rails,2x6 PT perimeter and cross ties,"Base is square; cross ties installed near 48, 72, and 96 in from front",Required
+Frame,4x4 post count,Nine 4x4 posts,"Three post lines: front, coop-front, rear. Prior 6-post draft is superseded",Corrected
+Frame,Diagonal bracing,"2x4 braces at sides, rear, and coop support line",Frame cannot rack when pushed before wire/siding is installed,Required
+Coop floor,Floor joists,2x6 joists about 16 in O.C.,No unsupported plywood span greater than practical joist spacing,Required
+Coop floor,Floor decking,3/4 in exterior plywood,"Edges supported, seams fastened, edges sealed",Required
+Walls,Siding/sheathing,1/2 in exterior plywood or T1-11,All cut edges primed/sealed; no predator-access gaps,Required
+Roof,Rafters,"2x4 rafters, approx. 60 in",Overhang included; rafters tied or screwed to wall plates,Required
+Roof,Roof material,Lightweight corrugated panels,Panels overlap per manufacturer; roofing screws use washers,Required
+Wire,Hardware cloth,1/2 in 19-ga galvanized,Attached with screws plus fender washers or battens every 6-8 in,Required
+Wire,Predator apron,12-24 in fold-out optional but recommended,Apron staked or clipped where predator pressure exists,Recommended
+Mobility,Wheel size/rating,"20 in pneumatic or trailer-rated wheels, 600 lb+ each",Wheel rating exceeds finished load with margin; test roll before birds are inside,Required
+Mobility,Axle,3/4 in axle rod or hub/spindle assemblies,Retained with collars/cotter pins; mounts through-bolted,Required
+Mobility,Tow tongue,4x4 wood or steel tongue with tow ring/chain,Pull point aligned with skids; safety chain installed,Required
+Doors,Lower access door,Approx. 30 in x 42 in,Door swings/latches cleanly; two-step predator latch,Required
+Doors,Rear cleanout doors,Two large rear doors,Allow rake/scrape access to full coop floor,Required
+Doors,Pop door,Approx. 12 in x 14 in,Locks shut at night; ramp hinge or cleats secure,Required
+Interior,Nest boxes,Three boxes about 12 in W x 12 in H x 14 in D,External/rear access hatch; boxes lower than roost bars,Layer mode
+Interior,Roost bars,"10-12 linear ft total, removable",Bars removable for broiler mode and cleaning,Layer mode
+Finish,Surface protection,Exterior paint/stain and sealed plywood edges,No raw plywood edges exposed to weather,Required
+Safety,Publication claim,DIY plans only,No engineered/code-approved/field-tested claims unless documented,Blocker

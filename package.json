@@ -1,0 +1,39 @@
+{
+  "name": "pastureframe-plans-automation",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Semi-automated, compliance-first Etsy operating system for PastureFrame digital coop plans.",
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "typecheck": "tsc --noEmit",
+    "dev": "tsx watch src/server.ts",
+    "start": "node dist/server.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "etsy:auth": "tsx src/cli/etsy-oauth.ts",
+    "agent:product": "tsx src/cli/run-agent.ts product",
+    "agent:listing": "tsx src/cli/run-agent.ts listing",
+    "agent:compliance": "tsx src/cli/run-agent.ts compliance",
+    "agent:cs": "tsx src/cli/run-agent.ts customer-service",
+    "report:weekly": "tsx src/cli/run-weekly-report.ts",
+    "emergency-stop": "tsx src/cli/emergency-stop.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.30.0",
+    "@supabase/supabase-js": "^2.45.0",
+    "dotenv": "^16.4.5",
+    "openai": "^4.60.0",
+    "pino": "^9.4.0",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0",
+    "vitest": "^4.1.9"
+  }
+}

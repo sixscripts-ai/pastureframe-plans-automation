@@ -1,0 +1,66 @@
+{
+  "product_id": null,
+  "slug": "mobile-chicken-coop-10x10",
+  "product_name": "10' x 10' Mobile Chicken Coop Plans with 4' x 10' Elevated Coop House",
+  "product_type": "mobile_coop",
+  "status": "draft",
+  "approval_status": "pending",
+  "compliance_status": "pending",
+  "version": "1.0.0",
+  "spec_version": "strict_v2",
+  "source_of_truth": {
+    "imported_package": "final_plan_package/",
+    "build_spec_master_pdf": "final_plan_package/documents/Chicken_Coop_Build_Spec_Master.pdf",
+    "strict_build_spec": "final_plan_package/documents/Strict_Build_Spec_Checklist.md",
+    "active_materials_list": "source/spreadsheets/materials.md",
+    "active_cut_list": "source/spreadsheets/cut-list.md"
+  },
+  "price": 39,
+  "brand": "PastureFrame Plans",
+  "product_line": "Mobile Coop Build Plans",
+  "designer_credit": "Designed by Ashton Aschenbrener",
+  "target_customer": "Backyard homesteaders with 0.25-5 acres rotating a small flock on pasture; suitable for approximately 10-12 laying hens or 30-45 broilers depending on setup, climate, management, and movement frequency.",
+  "product_claim": "Digital DIY plans for a 10' x 10' mobile chicken coop/run with a 4' x 10' elevated coop house. Designed for approximately 10-12 laying hens or 30-45 broilers, depending on setup, climate, management, and movement frequency.",
+  "primary_specs": {
+    "ground_footprint": "10' x 10' outside frame",
+    "lower_run": "10' x 10' footprint",
+    "lower_run_height": "48 inches",
+    "upper_coop_house": "4' x 10' outside footprint",
+    "upper_coop_interior_area": "About 40 sq ft before framing loss",
+    "upper_coop_wall_height": "42-48 inches",
+    "upper_coop_wall_heights": "48 inch high side / 40 inch low side",
+    "roof": "Lightweight sloped roof with approx. 8 inch fall across 48 inch depth",
+    "mobility": "4x6 skids + axle-mounted pneumatic wheels + tow tongue",
+    "post_count": "9 4x4 posts",
+    "hardware_cloth": "1/2 inch galvanized hardware cloth, 19 ga minimum"
+  },
+  "capacity_guidance": {
+    "layers_recommended": "10-12 laying hens",
+    "layers_absolute_claim_max": "12 hens unless buyer heavily adapts/free-ranges",
+    "broilers_recommended": "30-45 broilers",
+    "broilers_upper_practical_limit": "50 broilers only with frequent moves, good ventilation, enough feeders/waterers, shade, and heat management"
+  },
+  "etsy": {
+    "quantity": 999,
+    "type": "download",
+    "who_made": "i_did",
+    "when_made": "made_to_order",
+    "taxonomy_node_hint": "Patterns / How-to / Building plans",
+    "file_packaging_note": "Package as a few clean PDFs or ZIP files; Etsy instant digital listings allow up to five uploaded files, max 20 MB per file."
+  },
+  "files": {
+    "main_pdf": "exports/pdf/mobile-coop-10x10-v1.0.0.pdf",
+    "current_plan_set_pdf": "final_plan_package/current_plan_assets/mobile_chicken_coop_plan_set_CURRENT_DRAFT.pdf",
+    "build_spec_master_pdf": "final_plan_package/documents/Chicken_Coop_Build_Spec_Master.pdf",
+    "materials_csv": "exports/etsy-upload/materials.csv",
+    "cut_list_csv": "exports/etsy-upload/cut-list.csv",
+    "listing_images_zip": "exports/etsy-upload/listing-images-v1.zip"
+  },
+  "superseded_specs_do_not_use": [
+    "6-post draft framing layout",
+    "4x4 skids",
+    "four small swivel casters",
+    "48-54 inch selectable lower run height",
+    "1/4 inch hardware cloth as main mesh"
+  ]
+}

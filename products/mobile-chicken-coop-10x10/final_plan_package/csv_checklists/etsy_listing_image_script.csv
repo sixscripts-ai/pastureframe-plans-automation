@@ -1,0 +1,11 @@
+#,Image role,PastureFrame script,Required text overlay,Proof/source requirement
+1,Hero image,Show finished 10 x 10 mobile coop as a clean CAD render or real prototype photo on pasture.,DIGITAL PLANS - NO PHYSICAL COOP SHIPPED,CAD render or prototype photo required.
+2,Dimension overview,"Show top and side dimensions with arrows: 10 x 10 base, 4 x 10 upper coop, 48 in lower run.",10 x 10 RUN / 4 x 10 ELEVATED COOP,Dimensioned drawing required.
+3,Top view plan,"Show front tow end, rear coop end, skids, wheel axle, post lines, open run, coop floor zone.",TOP VIEW PLAN,Top-view proof asset required.
+4,Side view plan,"Show low mobile profile: 48 in lower run, elevated coop, sloped roof, skids, wheels, tow tongue.",SIDE VIEW + ROOF SLOPE,Side-view proof asset required.
+5,Exploded frame,"Show frame assemblies separated: skids/base, posts, coop floor, wall frames, rafters, bracing.",FRAME ASSEMBLY,Exploded CAD/sketch required.
+6,Wheel/skid system,"Close-up of 4x6 skid, axle/wheel, tow tongue, tow ring, safety chain, bolts.",SKID + AXLE WHEEL SYSTEM,Wheel detail drawing required.
+7,Layer setup,"Show nest boxes, roost bars, pop door, ramp, ventilation, egg hatch.",LAYER MODE: 10-12 HENS,Nest/roost layout required.
+8,Broiler setup,"Show lower run used for broilers with feeders/waterers, shade, grass rotation notes, roosts removed.",BROILER MODE: 30-45 BIRDS,Broiler layout drawing/render required.
+9,What is included,"Show PDF covers, materials list, cut list, build steps, diagrams, checklists in branded stack.",WHAT YOU GET,Final product PDF/package mockup required.
+10,Disclaimer / buyer clarity,"Cream background, PastureFrame green heading, simple icons. State limits clearly.",DIY DIGITAL PLANS - VERIFY LOCAL CONDITIONS,Text-only brand card acceptable.
