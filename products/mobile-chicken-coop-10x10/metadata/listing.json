@@ -6,7 +6,7 @@
   "status": "draft",
   "approval_status": "pending",
   "compliance_status": "pending",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "spec_version": "strict_v2",
   "source_of_truth": {
     "imported_package": "final_plan_package/",
@@ -15,7 +15,13 @@
     "active_materials_list": "source/spreadsheets/materials.md",
     "active_cut_list": "source/spreadsheets/cut-list.md"
   },
-  "price": 39,
+  "price": 29,
+  "pricing_ladder": {
+    "launch": 29,
+    "regular": 39,
+    "premium": 49,
+    "launch_window": "first 10 sales or first month, whichever ends first"
+  },
   "brand": "PastureFrame Plans",
   "product_line": "Mobile Coop Build Plans",
   "designer_credit": "Designed by Ashton Aschenbrener",
@@ -49,7 +55,7 @@
     "file_packaging_note": "Package as a few clean PDFs or ZIP files; Etsy instant digital listings allow up to five uploaded files, max 20 MB per file."
   },
   "files": {
-    "main_pdf": "exports/pdf/mobile-coop-10x10-v1.0.0.pdf",
+    "main_pdf": "deliverables/pdf/PastureFrame_Mobile_Coop_10x10_Plans_v2.0.0.pdf",
     "current_plan_set_pdf": "final_plan_package/current_plan_assets/mobile_chicken_coop_plan_set_CURRENT_DRAFT.pdf",
     "build_spec_master_pdf": "final_plan_package/documents/Chicken_Coop_Build_Spec_Master.pdf",
     "materials_csv": "exports/etsy-upload/materials.csv",
